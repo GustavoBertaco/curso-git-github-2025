@@ -3,3 +3,7 @@ só um texto para teste
 esse
 esse
 esse
+
+
+#comandos mais genéricos
+-comandos esytranho
