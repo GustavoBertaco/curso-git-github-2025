@@ -11,6 +11,6 @@ Fluxo de trabalho
 4. git status
 5. git add <nome do arquivo>
 6. git status
-7. git commit -m "message"
+7. git commit -m "Messagem"
 8. git status
 9. volta para o passo 3
