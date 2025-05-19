@@ -1,8 +1,8 @@
-git init . -> cria um repo git na pasta atual
-git status -> mostra status do trabalho (de cada arquvio)
-git add nome_arquivo -> adiciona arquivo para ser commitado
-git commit -m "msg" -> faz commit do que estava para ser commitado
-git log -> mosta o histórico de todos os commitsFluxo de trabalho
+git init . 		-> cria um repo git na pasta atual
+git status 		-> mostra status do trabalho (de cada arquvio)
+git add nome_arquivo 	-> adiciona arquivo para ser commitado
+git commit -m "msg" 	-> faz commit do que estava para ser commitado
+git log 		-> mosta o histórico de todos os commitsFluxo de trabalho
 
 Fluxo de trabalho
 1. Criar o diretório de trabalho
